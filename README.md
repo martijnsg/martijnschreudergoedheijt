@@ -48,6 +48,7 @@ Statische website voor https://www.martijnschreudergoedheijt.nl. Geen buildstap 
 - `images/dnb-matten.webp`
 - `images/dnb-vloer.webp`
 - `images/dnb-zolder.webp`
+- `images/hero-kleur.webp`
 - `images/hero.webp`
 - `images/logo-00.webp`
 - `images/logo-01.webp`

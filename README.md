@@ -1,0 +1,92 @@
+# Website Martijn Schreuder Goedheijt
+
+Statische website voor https://www.martijnschreudergoedheijt.nl. Geen buildstap nodig: Netlify publiceert de map zoals hij is.
+
+## Nog in te vullen ([TO FILL])
+
+- Voettekst op elke pagina: officiële bedrijfsnaam, KvK-nummer en vestigingsplaats.
+- /privacy/: verantwoordelijke, verwerkte gegevens en grondslag, bewaartermijnen, rechten, datum; lijst met diensten van derden controleren.
+- /algemene-voorwaarden/: de voorwaarden zelf of een link naar een pdf.
+
+## Bestanden
+
+- `404.html`
+- `algemene-voorwaarden/index.html`
+- `assets/site.js`
+- `assets/style.css`
+- `blog/bron-en-bestemming/index.html`
+- `blog/eenzame-ceo/index.html`
+- `blog/emoties-op-de-werkvloer/index.html`
+- `blog/het-ergste-belletje/index.html`
+- `blog/index.html`
+- `blog/kijken-en-zien/index.html`
+- `blog/middenmanagers/index.html`
+- `blog/mijn-bmw-is-bang/index.html`
+- `blog/realiteit-aannemen/index.html`
+- `blog/richting-en-loslaten/index.html`
+- `blog/rust-of-leven/index.html`
+- `blog/stap-je-in-of-stap-je-uit/index.html`
+- `blog/stel-je-team-eens-op/index.html`
+- `blog/succesvol-durven-zijn/index.html`
+- `blog/trots-op-deze-interventie/index.html`
+- `blog/ze-lokt-me-in-het-licht/index.html`
+- `diensten/index.html`
+- `executiveteambegeleiding/index.html`
+- `images/abb-buiten-groot.webp`
+- `images/abb-groep-klein.webp`
+- `images/abb-kring.webp`
+- `images/abb-reflectie-klein.webp`
+- `images/avit-buiten.webp`
+- `images/avit-gesprek.webp`
+- `images/avit-team.webp`
+- `images/avit-uitzicht.webp`
+- `images/contact.webp`
+- `images/dienst-golf.webp`
+- `images/dienst-gras.webp`
+- `images/dienst-wolken.webp`
+- `images/dnb-kring.webp`
+- `images/dnb-matten.webp`
+- `images/dnb-vloer.webp`
+- `images/dnb-zolder.webp`
+- `images/hero.webp`
+- `images/logo-00.webp`
+- `images/logo-01.webp`
+- `images/logo-02.webp`
+- `images/logo-03.webp`
+- `images/logo-04.webp`
+- `images/logo-05.webp`
+- `images/logo-06.webp`
+- `images/logo-07.webp`
+- `images/logo-08.webp`
+- `images/logo-09.webp`
+- `images/logo-10.webp`
+- `images/logo-11.webp`
+- `images/logo-12.webp`
+- `images/logo-13.webp`
+- `images/logo-14.webp`
+- `images/logo-15.webp`
+- `images/natuur-blad.webp`
+- `images/natuur-bospad.webp`
+- `images/natuur-kust.webp`
+- `images/og-default.jpg`
+- `images/peer-alwin.webp`
+- `images/peer-annemarieke.webp`
+- `images/peer-cic.webp`
+- `images/peer-fnl.webp`
+- `images/peer-guus.webp`
+- `images/peer-robin.webp`
+- `images/peer-sander.webp`
+- `images/peer-sierdjan.webp`
+- `images/po-mannen.webp`
+- `images/portret.webp`
+- `index.html`
+- `inspiratie/index.html`
+- `leiderschapsontwikkeling/index.html`
+- `netlify.toml`
+- `over/index.html`
+- `persoonlijkeontwikkeling/index.html`
+- `privacy/index.html`
+- `robots.txt`
+- `sitemap.xml`
+- `visie/index.html`
+- `README.md`

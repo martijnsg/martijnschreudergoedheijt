@@ -11,6 +11,7 @@ Statische website voor https://www.martijnschreudergoedheijt.nl. Geen buildstap 
 ## Bestanden
 
 - `404.html`
+- `algemene-voorwaarden/algemene-voorwaarden-martijn-schreuder-goedheijt-2026.pdf`
 - `algemene-voorwaarden/index.html`
 - `assets/site.js`
 - `assets/style.css`

@@ -4,7 +4,7 @@ Statische website voor https://www.martijnschreudergoedheijt.nl. Geen buildstap 
 
 ## Nog in te vullen ([TO FILL])
 
-- E-mailadres in de algemene voorwaarden en de privacyverklaring. Rechtsvorm, handelsnaam en KvK-nummer volgen later.
+- Rechtsvorm, handelsnaam en KvK-nummer volgen later.
 - /privacy/: verantwoordelijke, verwerkte gegevens en grondslag, bewaartermijnen, rechten, datum; lijst met diensten van derden controleren.
 
 ## Bestanden

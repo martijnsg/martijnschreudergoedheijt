@@ -66,7 +66,7 @@ Statische website voor https://www.martijnschreudergoedheijt.nl. Geen buildstap 
 - `images/logo-14.webp`
 - `images/logo-15.webp`
 - `images/natuur-blad.webp`
-- `images/natuur-bospad.webp`
+- `images/natuur-duin.webp`
 - `images/natuur-kust.webp`
 - `images/og-default.jpg`
 - `images/peer-alwin.webp`

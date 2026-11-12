@@ -22,12 +22,6 @@
   status = 301
 
 [[redirects]]
-  from = "https://martijnschreudergoedheijt.nl/*"
-  to = "https://www.martijnschreudergoedheijt.nl/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
   from = "/blog"
   to = "/inspiratie/"
   status = 301

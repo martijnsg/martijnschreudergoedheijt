@@ -2,6 +2,32 @@
   publish = "."
 
 [[redirects]]
+  from = "/executiveteambegeleiding/*"
+  to = "/executive-teambegeleiding/"
+  status = 301
+
+[[redirects]]
+  from = "/persoonlijkeontwikkeling/*"
+  to = "/persoonlijke-ontwikkeling/"
+  status = 301
+
+[[redirects]]
+  from = "/executiveteambegeleiding"
+  to = "/executive-teambegeleiding/"
+  status = 301
+
+[[redirects]]
+  from = "/persoonlijkeontwikkeling"
+  to = "/persoonlijke-ontwikkeling/"
+  status = 301
+
+[[redirects]]
+  from = "https://martijnschreudergoedheijt.nl/*"
+  to = "https://www.martijnschreudergoedheijt.nl/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/blog"
   to = "/inspiratie/"
   status = 301
@@ -15,3 +41,8 @@
   for = "/images/*"
   [headers.values]
     Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "/assets/fonts/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
